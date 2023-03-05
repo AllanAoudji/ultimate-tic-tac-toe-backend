@@ -1,7 +1,7 @@
 {
-  "name": "default-backend-repo",
+  "name": "the-ultimate-ultimate-tic-tac-toe-backend",
   "version": "1.0.0",
-  "description": "Default settings for backend app using nodejs, typescript, eslint, prettier, webpack, nodemon, husky, and jest",
+  "description": "Backend for the mobile app The Ultimate Ultimate Tic Tac Toe using NodeJS, Express and Socket.IO",
   "main": "src/server.ts",
   "author": "Allan Aoudji",
   "license": "MIT",
