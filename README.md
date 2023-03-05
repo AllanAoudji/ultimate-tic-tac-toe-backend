@@ -1,4 +1,4 @@
-# Default Backend repo for nodejs
+# Backend using NodeJS, Express and socket.IO for The Ultimate Ultimate Tic Tac Toe
 
 ## Using nodejs, typescript, nodemon, eslin, prettier, webpack, husky, jest
 
