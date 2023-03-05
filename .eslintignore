@@ -2,4 +2,3 @@ node_module
 dist
 build
 coverage
-webpack.config.js
