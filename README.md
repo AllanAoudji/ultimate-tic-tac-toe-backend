@@ -27,10 +27,3 @@ cover tests
 
 8. prepare
 husky install
-
-### Rework
-1. Change webpack.config.js to webpack.config.ts
-https://www.hkitlifeshare.com/post/express-typescript-eslint-webpack5-setup
-
-2. Add supertest to test server
-https://www.albertgao.xyz/2017/05/24/how-to-test-expressjs-with-jest-and-supertest/
